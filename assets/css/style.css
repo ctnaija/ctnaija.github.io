@@ -3930,7 +3930,7 @@ figure.social-icon {
     margin: 0 -15px 35px;
 }
 
-figure.social-icon img {
+figure.social-icon img, figure.social-icon .case {
     max-width: 100%;
     position: relative;
 }
